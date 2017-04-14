@@ -1,0 +1,20 @@
+{
+  "name": "intro-vscode",
+  "version": "0.0.1",
+  "description": "introduction to vs code",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "tshepo ntlhokoa",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-ember-handlebars": "^0.7.0",
+    "gulp-print": "^2.0.1",
+    "gulp-rename": "^1.2.2"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}

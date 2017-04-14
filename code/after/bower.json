@@ -1,0 +1,22 @@
+{
+  "name": "intro-bower",
+  "description": "introduction to bower",
+  "main": "server.js",
+  "authors": [
+    "tshepo ntlhokoa"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.10.2",
+    "ember": "1.6.0"
+  }
+}
